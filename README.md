@@ -30,19 +30,19 @@ Now enhanced with a beautiful **Tkinter GUI** for an interactive experience!
    ```
    python visitors_gui.py
     ```
-## Preview
+## 📸 Preview
 
 The program displays a table of existing visitors, lets you add new names,
 and updates the table in real-time with timestamps — all from a simple, clean interface.
 
-## Future Improvements
+## 💡 Future Improvements
 
 - Add database support (e.g., SQLite or MySQL)
 - Include visitor search and filtering options
 - Export logs to Excel or CSV
 - Add notifications or sound alerts
 
-  ## Contact
-  [Linkedln](www.linkedin.com/in/chinenye-jennifer-nwachukwu)
-  [Email](mailto:nwachukwuchinenyejennifer@gnail.com)
+  ## 👩‍💻 Contact
+- [Linkedln](www.linkedin.com/in/chinenye-jennifer-nwachukwu)
+- [Email](mailto:nwachukwuchinenyejennifer@gnail.com)
  
